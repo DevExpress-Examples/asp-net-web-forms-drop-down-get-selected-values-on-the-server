@@ -1,4 +1,4 @@
-# Drop Down Edit for ASP.NET Web Forms - How to get selected values from a list box on the server.
+# Drop Down Edit for ASP.NET Web Forms - How to get selected values from a list box on the server
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2252/)**
 <!-- run online end -->
