@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Drop Down Edit for ASP.NET Web Forms - How to get selected values from a list box on the server
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2252/)**
+**[[Run Online]](https://codecentral.devexpress.com/128530791/)**
 <!-- run online end -->
 
 This example demonstrates how to create a template, add a list box editor to the template, get selected values on the client, and pass these values to the server.
