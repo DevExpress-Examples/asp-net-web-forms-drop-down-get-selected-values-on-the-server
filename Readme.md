@@ -61,7 +61,7 @@ protected void ASPxButton1_Click(object sender, EventArgs e) {
 
 * [Drop-Down Editor](https://docs.devexpress.com/AspNet/11655/components/data-editors/dropdownedit)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-drop-down-get-selected-values-on-the-server&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-drop-down-get-selected-values-on-the-server&~~~was_helpful=no)
 
